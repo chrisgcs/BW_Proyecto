@@ -1,0 +1,10 @@
+Sentence ID,Sentence,Sentiment,Sentiment Label
+1,"I love Amazon.com because they have quality products at reasonable prices, and they value their customers opinions of their products (a traite sorely lacking in many post-modern 'businesses').",0.765,positive
+2,"I have seen many documentaries on the 'Amazon Empire' and concluded that it has come so far so fast simply by Mr. Bezos' ability to listen to his customers and improve his product(s), presentation, and delivery (including the packaging).",0.7096,positive
+3,"As far as I know, he is the wealthiest business man on the planet to date, but he has something I admire much more: HE CARES!",0.9195,positive
+4,"Amazon Prime (music app) took me from the 'sand box' of ""radio gaga"" to the ""hall of the mountain kings"", because it made the world of music accessible to ME (not just the entrenched media).",0.1779,positive
+5,"They are also a treasure house of information and culture for every man, woman, and child with but a meager amount of money.",0.1531,positive
+6,"Seems to me the only drawback is their inability to deliver fast enough via drone delivery, but that's a SNAFU at the FAA, not at Amazon.",-0.8582,negative
+7,Jeff: you are a Great American.,0.6249,positive
+8,"""That's a wrap.""",0.0,neutral
+9,"- BRAVO (Yeah, I know, I'm crazy...)",0.0,neutral
